@@ -1,0 +1,23 @@
+<link rel="stylesheet" type="text/css" href="style.css"/>
+<meta name="viewport" content="width=device-width, user-scalable=no" />
+
+header {
+ font-family: Sans-serif, Trebuchet MS;
+ font-weight: bold condensed;
+ color: #AC2B37; 
+ font-size: 25px;
+}
+
+body {
+ font-family: "Times New Roman", Times, serif;
+ font-weight: condensed;
+ color: #BBDDCC; 
+ font-size: 12px;
+}
+
+h1 {
+ font-family: Copperplate, Fantasy;
+ font-weight: condensed;
+ color: #DDBBCC; 
+ font-size: 18px;
+}
